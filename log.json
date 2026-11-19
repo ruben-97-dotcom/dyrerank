@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-11-19",
+    "theme": "Cat Fails",
+    "title": "Ranking Best Cat Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/J87orS_3qcs",
+    "publish_at": "2026-11-19T20:00:00+01:00",
+    "file": "videos/2026-11-19_cat-fails.mp4",
+    "model": "Seedance 2.5 Flash 720p 5s",
+    "credits_used": 125,
+    "clips": [
+      {"rank": 3, "label": "Mid-air regret", "idea": "orange cat misses kitchen counter jump"},
+      {"rank": 5, "label": "Invisible wall", "idea": "tabby bonks into glass door chasing bird"},
+      {"rank": 2, "label": "Gravity wins", "idea": "cat knocks books off shelf, falls on bed"},
+      {"rank": 4, "label": "If I fits...", "idea": "chubby cat vs tiny box"},
+      {"rank": 1, "label": "Full send", "idea": "cat leaps sofa to armchair, lands in laundry basket"}
+    ],
+    "stats": {}
+  }
+]
