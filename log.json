@@ -41,5 +41,43 @@
       "likes": null,
       "comments": 0
     }
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Goat Fails",
+    "title": "Ranking Best Goat Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/2rXxzY-QKx0",
+    "publish_at": "2026-11-22T23:36:00+01:00",
+    "file": "videos/2026-11-22_goat-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Bounce betrayal",
+        "idea": "baby goat bounces too high on trampoline, flops into hay"
+      },
+      {
+        "rank": 5,
+        "label": "Wrong target",
+        "idea": "goat headbutts reflection in barn door, door swings open, tumbles into straw"
+      },
+      {
+        "rank": 2,
+        "label": "Balance lost",
+        "idea": "goat poses on wheelbarrow, it tips, slides onto grass"
+      },
+      {
+        "rank": 4,
+        "label": "Ghost mode",
+        "idea": "goat pulls picnic tablecloth over its head, wanders like a ghost"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "goat leaps between hay bales, misses, lands in giant hay pile"
+      }
+    ],
+    "stats": {}
   }
 ]
