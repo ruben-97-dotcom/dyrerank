@@ -79,8 +79,8 @@
       }
     ],
     "stats": {
-      "read_at": "2026-11-23T22:14+01:00",
-      "views": 10958,
+      "read_at": "2026-11-23T22:58+01:00",
+      "views": 10992,
       "likes": null,
       "comments": 0
     }
@@ -119,6 +119,239 @@
         "rank": 1,
         "label": "Full send",
         "idea": "duck sprints off dock, fails takeoff, belly-flops into lake"
+      }
+    ],
+    "stats": {
+      "read_at": "2026-11-23T22:58+01:00",
+      "views": 79,
+      "likes": null,
+      "comments": 0
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "Sheep Fails",
+    "title": "Ranking Best Sheep Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/G2MjA-nWLok",
+    "publish_at": "2026-11-24T20:00:00+01:00",
+    "file": "videos/2026-11-24_sheep-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Hay hurdle",
+        "idea": "A fluffy white sheep in a farmyard tries to jump over a small hay bale, clips it with its back hooves and flop"
+      },
+      {
+        "rank": 5,
+        "label": "Too fluffy",
+        "idea": "A very fluffy lamb tries to hop up onto a low stone wall in a green field, bounces off the edge on its puffy w"
+      },
+      {
+        "rank": 2,
+        "label": "Wool sled",
+        "idea": "A woolly sheep runs happily down a wet grassy hill, its legs slide out sideways and it glides down the rest of"
+      },
+      {
+        "rank": 4,
+        "label": "Flower thief",
+        "idea": "A sneaky sheep stretches its neck to nibble flowers from a light plastic garden planter, the planter tips over"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A happy lamb sprints across a meadow and does a huge springy jump high into the air, overshoots and lands with"
+      }
+    ],
+    "stats": {}
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "Raccoon Fails",
+    "title": "Top 5 Raccoon Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/HeIg239GRDE",
+    "publish_at": "2026-11-25T20:00:00+01:00",
+    "file": "videos/2026-11-25_raccoon-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 60,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Lid betrayal",
+        "idea": "A raccoon on a wooden backyard deck pries open the lid of a plastic storage bin, the lid springs back and the "
+      },
+      {
+        "rank": 5,
+        "label": "Drainpipe slide",
+        "idea": "A chubby raccoon climbing down a house drainpipe loses its grip and slowly slides down the pipe, landing gentl"
+      },
+      {
+        "rank": 2,
+        "label": "Cotton candy",
+        "idea": "A raccoon in a backyard grabs a big pink cotton candy and carefully dips it into a garden water bowl to wash i"
+      },
+      {
+        "rank": 4,
+        "label": "Pool party",
+        "idea": "A raccoon leans over the edge of a shallow kiddie paddling pool to grab a floating rubber duck, leans too far "
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A raccoon on a backyard deck railing leaps toward a hanging bird feeder, misses it completely and lands belly-"
+      }
+    ],
+    "stats": {}
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Pig Fails",
+    "title": "Ranking Best Pig Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/f0OaJpSoPuI",
+    "publish_at": "2026-11-26T20:00:00+01:00",
+    "file": "videos/2026-11-26_pig-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Mud skid",
+        "idea": "A pink farm pig trots eagerly toward a big mud puddle, slips at the edge and slides right through it on its be"
+      },
+      {
+        "rank": 5,
+        "label": "Ball betrayal",
+        "idea": "A small black mini pig nudges a big colorful inflatable beach ball with its snout, the ball bounces back and g"
+      },
+      {
+        "rank": 2,
+        "label": "Hide and seek",
+        "idea": "A piglet charges headfirst into a pile of loose hay to hide, but only its head goes in and its round pink bott"
+      },
+      {
+        "rank": 4,
+        "label": "Couch denied",
+        "idea": "A mini pig in a cozy living room tries to jump up onto a big soft sofa, gets only its front legs up and slowly"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A pig sprints happily down a gentle grassy slope, trips over a tuft of grass and rolls sideways like a barrel "
+      }
+    ],
+    "stats": {}
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Penguin Fails",
+    "title": "Top 5 Penguin Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/mZIa-wudN_k",
+    "publish_at": "2026-11-27T20:00:00+01:00",
+    "file": "videos/2026-11-27_penguin-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Ice slip",
+        "idea": "A penguin waddles onto a slippery icy rock, its feet slide out and it belly-flops and slides gently into the w"
+      },
+      {
+        "rank": 5,
+        "label": "Wrong way",
+        "idea": "A line of penguins waddles to the left in perfect order, but one penguin waddles confidently the other way and"
+      },
+      {
+        "rank": 2,
+        "label": "Pebble drop",
+        "idea": "A penguin proudly carries a shiny pebble in its beak, trips over its own feet and gently plops onto its belly,"
+      },
+      {
+        "rank": 4,
+        "label": "Fish fumble",
+        "idea": "A small fish is tossed toward a penguin, the penguin snaps at it and misses, the fish lightly bounces off its "
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A penguin runs full speed across the snowy ledge and launches itself in a dramatic leap toward the pool, belly"
+      }
+    ],
+    "stats": {}
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Parrot Fails",
+    "title": "Ranking Best Parrot Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/Q5tpyfDNA_U",
+    "publish_at": "2026-11-28T20:00:00+01:00",
+    "file": "videos/2026-11-28_parrot-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Upside down",
+        "idea": "A green pet parrot on a wooden perch leans too far forward for a sunflower seed, slowly rotates until it is ha"
+      },
+      {
+        "rank": 5,
+        "label": "Mirror rival",
+        "idea": "A small colorful parrot in a cage pecks at its reflection in a little toy mirror, the mirror swings back and l"
+      },
+      {
+        "rank": 2,
+        "label": "Curtain slide",
+        "idea": "A bright parrot flies across a living room to land on a curtain rod, misses it, grabs the curtain and slowly s"
+      },
+      {
+        "rank": 4,
+        "label": "Splash zone",
+        "idea": "A curious parrot on a kitchen table pushes a small plastic cup of water with its beak, the cup tips over and s"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A parrot on top of a tall bookshelf confidently jumps off to fly across the room, flaps clumsily, glides badly"
+      }
+    ],
+    "stats": {}
+  },
+  {
+    "date": "2026-11-29",
+    "theme": "Cow Fails",
+    "title": "Ranking Best Cow Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/-HbGib3itgM",
+    "publish_at": "2026-11-29T20:00:00+01:00",
+    "file": "videos/2026-11-29_cow-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Ball rebound",
+        "idea": "A young brown and white calf in a green meadow headbutts a big blue exercise ball, the ball bounces straight b"
+      },
+      {
+        "rank": 5,
+        "label": "Apple miss",
+        "idea": "A cow behind a wooden fence stretches out its long tongue again and again trying to reach an apple on a fence "
+      },
+      {
+        "rank": 2,
+        "label": "Mud sled",
+        "idea": "A playful calf runs down a muddy slope, its legs slide out and it slides down on its bottom like a sled into a"
+      },
+      {
+        "rank": 4,
+        "label": "Hay hat",
+        "idea": "A cow pulls a mouthful of hay from a hay rack in a barn, a big clump of hay falls down and lands on top of its"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "A happy calf does wild zoomies across a barnyard, kicking its back legs high in the air, loses its balance mid"
       }
     ],
     "stats": {}
