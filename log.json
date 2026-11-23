@@ -36,8 +36,8 @@
       }
     ],
     "stats": {
-      "read_at": "2026-11-22T23:28+01:00",
-      "views": 32,
+      "read_at": "2026-11-23T22:14+01:00",
+      "views": 33,
       "likes": null,
       "comments": 0
     }
@@ -76,6 +76,49 @@
         "rank": 1,
         "label": "Full send",
         "idea": "goat leaps between hay bales, misses, lands in giant hay pile"
+      }
+    ],
+    "stats": {
+      "read_at": "2026-11-23T22:14+01:00",
+      "views": 10958,
+      "likes": null,
+      "comments": 0
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Duck Fails",
+    "title": "Ranking Best Duck Fails 😂 #shorts",
+    "youtube_url": "https://youtube.com/shorts/GOFBuJC0868",
+    "publish_at": "2026-11-23T22:13:00+01:00",
+    "file": "videos/2026-11-23_duck-fails.mp4",
+    "model": "Seedance 2.5 Flash 480p 5s",
+    "credits_used": 50,
+    "clips": [
+      {
+        "rank": 3,
+        "label": "Step betrayal",
+        "idea": "white duck misjudges garden step, rolls onto lawn"
+      },
+      {
+        "rank": 5,
+        "label": "Boot trap",
+        "idea": "duckling walks into yellow rubber boot, boot tips over"
+      },
+      {
+        "rank": 2,
+        "label": "Ice landing",
+        "idea": "mallard lands on frozen pond, belly-slides into snowy reeds"
+      },
+      {
+        "rank": 4,
+        "label": "Bread heist",
+        "idea": "duck dives for bread, ends upside down, pops up with pondweed"
+      },
+      {
+        "rank": 1,
+        "label": "Full send",
+        "idea": "duck sprints off dock, fails takeoff, belly-flops into lake"
       }
     ],
     "stats": {}
